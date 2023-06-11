@@ -4,7 +4,7 @@
 
 ## 📌Index
 
-1. [Cobby - Github with Cobby 서비스 소개](#Cobby - Github with Cobby-서비스-소개)
+1. [Cobby - Github with Cobby 서비스 소개](#Cobby---github-with-cobby-서비스-소개)
 2. [주요 기술 스택](#🔧주요-기술-스택)
 3. [개발 기간 및 팀원 역할 소개](#👩‍👩‍👧개발-기간-및-팀원-역할-소개)
 4. [프로젝트 산출물](#📚프로젝트-산출물)
